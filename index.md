@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## ECMAScript 6入坑指南
 
-You can use the [editor on GitHub](https://github.com/dielect/dielect.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我本来是一位Java开发工程师，在日常开发过程中，不可避免的会与前端交谈，对js颇有兴趣，遂记录。
 
 ### Markdown
 
